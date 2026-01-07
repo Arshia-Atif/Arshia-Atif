@@ -25,8 +25,5 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Arshia-Atif)](https://github.com/ryo-ma/github-profile-trophy)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+<img width="880" height="192" alt="image" src="https://github.com/user-attachments/assets/e8be5371-9475-4731-9427-d35df0bea00c" />
+
