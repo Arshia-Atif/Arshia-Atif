@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Arshia Atif</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Arshia-Atif&theme=dark" alt="GitHub Streak" /></a>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arshia-atif&label=Profile%20views&color=0e75b6&style=flat" alt="arshia-atif" /> </p>
 - 🌱 I’m currently learning **Modern Web & App Development**
 
